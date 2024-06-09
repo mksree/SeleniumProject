@@ -29,11 +29,11 @@ public class CoreJavaConcepts {
 	for(String val : a) {
 		System.out.println(val);
 		
-	}
+	}*/
 	String s="java practice programs ";
 	String[] splitedstring =s.split("practice");
 	System.out.println(splitedstring[0]);
-	System.out.println(splitedstring[1].trim());*/
+	System.out.println(splitedstring[1].trim());
 		//count vowels and consonants
 		String line = "Hello world";
 		 int vowels = 0, consonants =0;
